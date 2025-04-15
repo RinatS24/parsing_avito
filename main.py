@@ -11,10 +11,10 @@ telegram_token = "TOKEN"
 telegram_chat_id = "CHAT_ID"
 
 PROXIES = [
-    {"http": "http://yNYZvu:ePFyXgeN4SYD@mproxy.site:11620", "https": "http://yNYZvu:ePFyXgeN4SYD@mproxy.site:11620"}
+    {"http": "PROXIES1", "https": "PROXIES2"}
 ]
 
-CHANGE_IP_URL = "https://changeip.mobileproxy.space/?proxy_key=02c0aa0616c3ed7115a845c8a0a03df0"
+CHANGE_IP_URL = "CHANGE_IP_URL"
 
 def create_table():
     """Создает таблицу viewed, если она не существует."""
